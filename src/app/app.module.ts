@@ -9,6 +9,7 @@ import { AwardsComponent } from './awards/awards.component';
 import { AboutComponent } from './about/about.component';
 
 
+
 const routes: Routes = [
   { path: 'awards', component: AwardsComponent },
   { path: 'education',      component: EducationComponent },
